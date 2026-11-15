@@ -1,0 +1,6 @@
+{
+  "name": "VIBE",
+  "description": "Next-generation social networking and real-time chat platform with multi-profile identity switching, stories, reels, audio rooms, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
